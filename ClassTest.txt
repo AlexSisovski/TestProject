@@ -1,2 +1,5 @@
-Print("Hi!!!")
-Print("Hi!!!")
+<meta charset="utf-8">
+<script>
+	alert("Hello!!!")
+	alert("Learn GIT!!!")
+</script>
